@@ -5,7 +5,7 @@
 #### 4: Skill Development
 #### 5: Test, Validate, and Troubleshoot
 #### 6: Publishing, Operations, and Lifecycle Management
-
+-   ---------------
 ## 1: Voice-First Design Practices and Capabilities
 
 1.  Describe how users interact with skills
